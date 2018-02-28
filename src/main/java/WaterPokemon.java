@@ -2,7 +2,7 @@
  * Our specialty WaterPokemon that inherits from our Pokemon class.
  */
 public class WaterPokemon extends Pokemon {
-
+//varunb2@illinois.edu
     /**
      * The value we will be setting our specialty probability to.
      */
